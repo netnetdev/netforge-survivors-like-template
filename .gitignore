@@ -1,0 +1,4 @@
+node_modules/
+.netnet/
+*.log
+.DS_Store

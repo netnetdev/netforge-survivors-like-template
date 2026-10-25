@@ -1,0 +1,18 @@
+{
+  "name": "netforge-survivors-like-template",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "play": "kit-play play",
+    "test": "kit-play test",
+    "check": "kit-play check",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@netforge/engine": "0.2.0",
+    "@netforge/kit-play": "0.2.0",
+    "@netforge/template-survivor": "0.2.0",
+    "typescript": "5.8.3"
+  }
+}

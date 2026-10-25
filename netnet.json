@@ -1,0 +1,6 @@
+{
+  "forge": "Net Forge",
+  "template": "survivor",
+  "engine": "@netforge/engine",
+  "createdWith": "create-netforge@0.2.0"
+}
